@@ -7,7 +7,6 @@
   git clone https://github.com/ShubhamM3958/Blogify.git
   cd Blogify
 
-
 * Install the dependencies:
  ```bash
   pip install -r requirements.txt
